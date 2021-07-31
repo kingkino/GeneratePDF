@@ -1,0 +1,2 @@
+# GeneratePDF
+無償のPDFライブラリを利用してPDFを作成するAzureFunctionsのPoC
